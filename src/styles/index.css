@@ -26,6 +26,7 @@ body {
   justify-content: center;
   position: relative;
   box-sizing: border-box;
+  background-color: #aaa;
   width: 100px;
   height: 100px;
   border: 1px solid #000;
